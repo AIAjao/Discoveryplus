@@ -23,7 +23,7 @@ a {
 .top-wrapper{
    padding: 180px 0 100px 0;
    color: white;
-   background-image:url("https://prog-8.com/images/html/advanced/top_en.png");
+   background-image:url("top.png");
    background-size:  cover;
    text-align: center;
 }
